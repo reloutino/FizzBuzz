@@ -1,0 +1,5 @@
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzzConvertionLibrary\bin\Debug\FizzBuzzConvertionLibrary.dll
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzzConvertionLibrary\bin\Debug\FizzBuzzConvertionLibrary.pdb
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzzConvertionLibrary\obj\Debug\FizzBuzzConvertionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzzConvertionLibrary\obj\Debug\FizzBuzzConvertionLibrary.dll
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzzConvertionLibrary\obj\Debug\FizzBuzzConvertionLibrary.pdb

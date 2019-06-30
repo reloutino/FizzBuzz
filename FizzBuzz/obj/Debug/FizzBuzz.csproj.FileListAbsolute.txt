@@ -1,0 +1,9 @@
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzzConvertionLibrary.dll
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzzConvertionLibrary.pdb
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CopyComplete
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Stephane\source\repos\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
